@@ -1,0 +1,9 @@
+<root>
+  <id>0</id>
+  <list>
+    <element>list1</element>
+    <element>list2</element>
+    <element>list3</element>
+  </list>
+  <name>name</name>
+</root>
